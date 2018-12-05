@@ -1,0 +1,9 @@
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\XMLreader.csproj.GenerateResource.cache
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\XMLreader.csproj.CoreCompileInputs.cache
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Czytnik.exe.config
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Czytnik.exe
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Czytnik.pdb
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Czytnik.exe
+C:\Users\Radzio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Czytnik.pdb

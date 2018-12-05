@@ -7,7 +7,7 @@
     <ProjectGuid>{82AA5B37-1CBF-447D-81CC-891DAFAB4F0B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>WindowsFormsApp1</RootNamespace>
-    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <AssemblyName>Czytnik</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,6 +31,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Lgp85-Blue-Crystal-My-Documents.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -83,6 +86,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Schemat_rezystora.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon1.ico" />
+    <Content Include="Lgp85-Blue-Crystal-My-Documents.ico" />
+    <None Include="Resources\Schemat_kondensatora.png" />
+    <None Include="Resources\Schemat_cewki.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -63,6 +63,26 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Schemat_cewki {
+            get {
+                object obj = ResourceManager.GetObject("Schemat_cewki", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Schemat_kondensatora {
+            get {
+                object obj = ResourceManager.GetObject("Schemat_kondensatora", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Schemat_rezystora {
             get {
                 object obj = ResourceManager.GetObject("Schemat_rezystora", resourceCulture);
